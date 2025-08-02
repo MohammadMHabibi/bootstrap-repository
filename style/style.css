@@ -18,3 +18,14 @@ div.kolbuttons{
   display: flex;
   justify-content: center;
 }
+h3.bottom{
+  text-align:center;
+}
+div.row{
+  width: 60vw;
+  height: 60vh;
+}
+svg.andaze{
+  width: 40px;
+  height: 40px;
+}
